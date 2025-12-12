@@ -1,0 +1,9 @@
+pandas
+duckdb
+matplotlib
+seaborn
+scikit-learn
+fpdf
+dataframe-image
+openpyxl
+numpy

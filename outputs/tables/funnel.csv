@@ -1,0 +1,9 @@
+CallStatus,leads,good_rate,closed_rate
+,2140,0.0,0.0
+Closed,245,1.0,1.0
+Contacted - Doesn't Qualify,212,0.0,0.0
+Unable to contact - Bad Contact Information,191,0.0,0.0
+EP Confirmed,130,1.0,0.0
+Contacted - Invalid Profile,85,0.0,0.0
+EP Sent,16,1.0,0.0
+EP Received,2,1.0,0.0
